@@ -9883,3 +9883,14 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.number {
+  /* text-align: center; */
+  color: white;
+  font-size: 36px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position: absolute;
+  z-index: 1;
+  padding: 4px 8px;
+  background-color: black;
+}
