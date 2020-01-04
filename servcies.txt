@@ -1,0 +1,64 @@
+    <!-- Services -->
+		<section class="ftco-section ftco-no-pb ftco-services bg-light">
+      <div class="container">
+				<div class="row justify-content-center pb-5">
+						<div class="col-md-7 heading-section text-center ftco-animate">
+							<span class="subheading">Creativity</span>
+							<h2 class="mb-4">Services</h2>
+						</div>
+				</div>
+        <div class="row no-gutters "  id="hobbies-section">
+          <div class="col-md-4 ftco-animate py-5 nav-link-wrap">
+            <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+              <a class="nav-link px-4 active" id="v-pills-1-tab" data-toggle="pill" href="#v-pills-1" role="tab" aria-controls="v-pills-1" aria-selected="true"><span class="mr-3 flaticon-idea"></span>Home Decor</a>
+              <a class="nav-link px-4" id="v-pills-7-tab" data-toggle="pill" href="#v-pills-7" role="tab" aria-controls="v-pills-7" aria-selected="false"><span class="mr-3 flaticon-innovation"></span>Product Design</a>
+              <a class="nav-link px-4" id="v-pills-4-tab" data-toggle="pill" href="#v-pills-4" role="tab" aria-controls="v-pills-4" aria-selected="false"><span class="mr-3 flaticon-web-design"></span>Art and Craft </a>
+              <a class="nav-link px-4" id="v-pills-2-tab" data-toggle="pill" href="#v-pills-2" role="tab" aria-controls="v-pills-2" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span>Wall Painting</a>
+              <a class="nav-link px-4" id="v-pills-3-tab" data-toggle="pill" href="#v-pills-3" role="tab" aria-controls="v-pills-3" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span>Painting</a>
+              <a class="nav-link px-4" id="v-pills-5-tab" data-toggle="pill" href="#v-pills-5" role="tab" aria-controls="v-pills-5" aria-selected="false"><span class="mr-3 flaticon-ux-design"></span>Portrait</a>
+              <a class="nav-link px-4" id="v-pills-6-tab" data-toggle="pill" href="#v-pills-6" role="tab" aria-controls="v-pills-6" aria-selected="false"><span class="mr-3 flaticon-idea"></span>Sketching</a>
+             </div>
+          </div>
+          <div class="col-md-8 ftco-animate p-4 d-flex align-items-center">    
+            <div class="tab-content pl-md-5" id="v-pills-tabContent">
+              <!-- 1 -->
+              <div class="tab-pane fade py-5" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-1-tab">
+                <span class="icon mb-3 d-block flaticon-idea"></span>
+                <h2 class="mb-4">Home Decor</h2>
+                <p>Hello</p>
+              </div> 
+              <!-- 2 -->
+              <div class="tab-pane fade py-5" id="v-pills-2" role="tabpanel" aria-labelledby="v-pills-2-tab">
+                <span class="icon mb-3 d-block flaticon-flasks"></span>
+                <h2 class="mb-4">Product Design</h2>
+              </div> 
+              <!-- 3 -->
+              <div class="tab-pane fade py-5" id="v-pills-3" role="tabpanel" aria-labelledby="v-pills-3-tab">
+                <span class="icon mb-3 d-block flaticon-analysis"></span>
+                <h2 class="mb-4">Art and Craft</h2>
+              </div>
+              <!-- 4 -->
+              <div class="tab-pane fade py-5" id="v-pills-4" role="tabpanel" aria-labelledby="v-pills-4-tab">
+                <span class="icon mb-3 d-block flaticon-web-design"></span>
+                <h2 class="mb-4">Wall Painting</h2>
+              </div>
+              <!-- 5 -->
+              <div class="tab-pane fade py-5" id="v-pills-5" role="tabpanel" aria-labelledby="v-pills-5-tab">
+                <span class="icon mb-3 d-block flaticon-ux-design"></span>
+                <h2 class="mb-4">Painting</h2>
+              </div>
+              <!-- 6 -->
+              <div class="tab-pane fade py-5" id="v-pills-7" role="tabpanel" aria-labelledby="v-pills-6-tab">
+                <span class="icon mb-3 d-block flaticon-innovation"></span>
+                <h2 class="mb-4">Portrait</h2>
+              </div>
+              <!-- 7 -->
+              <div class="tab-pane fade py-5" id="v-pills-6" role="tabpanel" aria-labelledby="v-pills-7-tab">
+                <span class="icon mb-3 d-block flaticon-idea"></span>
+                <h2 class="mb-4">Sketching</h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
